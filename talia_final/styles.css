@@ -1,0 +1,19 @@
+body{padding: 5em;
+     background-color:#e6e6ff}
+
+h1,h2, .charaDesc{text-align: center;}
+h1,h2 {font-family: 'Bitter', serif;
+       color: #d24dff;
+       border: 1px black solid;}
+
+
+p{width:750px;
+font-family: 'Quicksand', sans-serif;
+color: #ff33ff;}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
